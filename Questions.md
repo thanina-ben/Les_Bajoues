@@ -18,5 +18,6 @@
 > ## Comment améliorer la mémoire sur un sujet ?
 > 3/ En renouvellant le souvenir plusieur fois sur des périodes de temps
 > ## Quel exemple d'auto-test est donné dans la vidéo ?
+> 4/ Créer une boites des plusieur compartiment et disposer des cartes avec les notions et avancer d'une case par jour si on connais encore la réponse sinon on ce trompe remettre la carte dans le premier compartiment
 > ## Quelle méthode de réorganisation des idées est abordée dans la vidéo et est-elle judicieuse ?
-5/ la méthode de réorganistion des idées qui est abordée dans la vidéo est celle de la carte mental et elle est judicieux car elle permet de réorganiser à sa manière et de travailler la mémorisation des le moments de la réalistation
+> 5/ la méthode de réorganistion des idées qui est abordée dans la vidéo est celle de la carte mental et elle est judicieux car elle permet de réorganiser à sa manière et de travailler la mémorisation des le moments de la réalistation
