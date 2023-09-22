@@ -30,13 +30,12 @@
 > ## À quoi sert Git ?
 
 > - 2/ Utilisation de Git (Powershell sur Windows ou Terminal sur Linux) :
-
-Pour cloner un dépôt : git clone <URL>
-Pour ajouter des fichiers au suivi : git add <nom_fichier>
-Pour valider les changements : git commit -m "Message de commit"
-Pour envoyer les modifications au dépôt distant : git push
-Pour récupérer les modifications du dépôt distant : git pull
-Git sert à travailler en groupe, à gérer les versions de code et à faciliter la collaboration.
+> Pour cloner un dépôt : git clone <URL>
+> Pour ajouter des fichiers au suivi : git add <nom_fichier>
+> Pour valider les changements : git commit -m "Message de commit"
+> Pour envoyer les modifications au dépôt distant : git push
+> Pour récupérer les modifications du dépôt distant : git pull
+> Git sert à travailler en groupe, à gérer les versions de code et à faciliter la collaboration.
 
 > ## Quels sont les avantages de Git ?
 
