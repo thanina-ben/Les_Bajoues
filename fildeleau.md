@@ -42,10 +42,10 @@
 Responsables de la spécification détaillée des fonctionnalités du système.
 >Documentent les exigences fonctionnelles, les cas d'utilisation, et les scénarios d'utilisation.
 >Aident à clarifier les besoins des utilisateurs et à les traduire en spécifications techniques.\
->***Autres :***\
+>***Autres***\
 >En plus des rôles principaux mentionnés ci-dessus, il peut y avoir d'autres membres dans une équipe de développement.\
 > **Les livrables:** \
-> Création de liste de fonctionnalités, des plans de construction de fonctionnalités, et des rapports d'avancement.
+> Création de liste de fonctionnalités, des plans de construction de fonctionnalités, et des rapports d'avancement.\
 > **Les normes de codage:**\
 > ***Uniformité du code***
 >Cela inclut la syntaxe, la structure du code, la nomenclature des variables et des fonctions, etc.
