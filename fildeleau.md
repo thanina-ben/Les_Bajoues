@@ -52,4 +52,5 @@ Responsables de la spécification détaillée des fonctionnalités du système.
 > ChatGPT`\
 > https://www.lucidchart.com/blog/fr/le-developpement-base-sur-les-fonctionnalites \
 > https://github.com/michaellaunay/NotesPubliques/blob/master/cours/Les%20m%C3%A9thodes%20agiles.md \
+> https://blog.myagilepartner.fr/index.php/2018/04/17/fdd-feature-driven-development/ \
 > 
