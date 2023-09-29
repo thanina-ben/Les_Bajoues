@@ -1,6 +1,6 @@
 ## Noms
-> Charles Iacopino 
-> Mathéo Lancéa
+> Charles Iacopino \
+> Mathéo Lancéa \
 > Thanina Benmammar
 
 ## Méthode choisie 
