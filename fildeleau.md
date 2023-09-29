@@ -14,7 +14,7 @@
 > 
 
 # Recherche internet et sur le cour
-## Quel sont les différents componsantes du FDD : \
+## Quel sont les différents componsantes du FDD :
 > **Les fonctionnalités** \
 > Les fonctionnalités sont généralement exprimées dans la forme "action - résultat - objet" \
 > Exemple : "Envoyer - une notification par e-mail - pour les utilisateurs inscrits" Trouver grâce à ChatGPT \
