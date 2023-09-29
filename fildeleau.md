@@ -47,6 +47,13 @@ Responsables de la spécification détaillée des fonctionnalités du système.
 >En plus des rôles principaux mentionnés ci-dessus, il peut y avoir d'autres membres dans une équipe de développement.
 > **Les livrables** \
 > **Les normes de codage**
+> ***Uniformité du code :***
+
+>Cela inclut la syntaxe, la structure du code, la nomenclature des variables et des fonctions, etc.
+En suivant des normes de codage uniformes, l'équipe de développement garantit que le code source est cohérent, ce qui facilite la collaboration entre les membres de l'équipe. Chacun peut comprendre le code des autres plus facilement, ce qui réduit les erreurs et les conflits potentiels.\
+***Compréhensibilité du code :***\
+La documentation du code est un élément clé pour rendre le code compréhensible. Chaque composant logiciel, fonction ou module doit être accompagné de commentaires et de descriptions expliquant son objectif, son fonctionnement, et comment l'utiliser.\
+Les normes de codage et la documentation aident à garantir que le code reste maintenable sur le long terme.
 >
 > Source :
 > ChatGPT\
