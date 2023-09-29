@@ -12,3 +12,12 @@
 > Chaque fonctionnalité serait planifiée individuellement, et l'équipe travaillerait sur la conception et la construction de chaque fonctionnalité en séquence.
 > Une fois une fonctionnalité terminée, elle serait testée et intégrée dans le système.
 > 
+
+# Recherche internet et sur le cour
+> Quel sont les différents componsantes du FDD :
+> **Les fonctionnalités** \
+> **Le processus de développement** \
+> **Les rôles** \
+> **Les livrables** \
+> **Les normes de codage** \
+> 
