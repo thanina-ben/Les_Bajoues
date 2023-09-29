@@ -14,12 +14,12 @@
 
 # Recherche internet et sur le cours
 ## Quel sont les différents componsantes du FDD :
-> **Les fonctionnalités** \
+**Les fonctionnalités** \
 > Les fonctionnalités sont généralement exprimées dans la forme "action - résultat - objet" \
 > Exemple : "Envoyer - une notification par e-mail - pour les utilisateurs inscrits" Trouver grâce à ChatGPT \
 > Si une fonctionnalité ne peut être mise en œuvre en deux semaines, elle doit être décomposée en éléments plus petits et gérables \
 > **Le processus de développement** \
-> **Les rôles** \
+**Les rôles** \
 >Recherche internet pour définir les différents roles dans la méthode FDD lors d'un projet\
 > ***Chef de Projet :***\
 >Responsable de la gestion globale du projet.
@@ -45,7 +45,7 @@ Responsables de la spécification détaillée des fonctionnalités du système.
 >***Autres :***\
 >En plus des rôles principaux mentionnés ci-dessus, il peut y avoir d'autres membres dans une équipe de développement.\
 > **Les livrables** \
->**Les normes de codage**
+**Les normes de codage**
 > ***Uniformité du code :***
 >Cela inclut la syntaxe, la structure du code, la nomenclature des variables et des fonctions, etc.
 En suivant des normes de codage uniformes, l'équipe de développement garantit que le code source est cohérent, ce qui facilite la collaboration entre les membres de l'équipe. Chacun peut comprendre le code des autres plus facilement, ce qui réduit les erreurs et les conflits potentiels.\
