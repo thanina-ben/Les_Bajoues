@@ -18,39 +18,39 @@
 > Les fonctionnalités sont généralement exprimées dans la forme "action - résultat - objet" \
 > Exemple : "Envoyer - une notification par e-mail - pour les utilisateurs inscrits" Trouver grâce à ChatGPT \
 > Si une fonctionnalité ne peut être mise en œuvre en deux semaines, elle doit être décomposée en éléments plus petits et gérables \
-> **Le processus de développement** \
-**Les rôles** \
+> **Le processus de développement**\
+**Les rôles:**\
 >Recherche internet pour définir les différents roles dans la méthode FDD lors d'un projet\
-> ***Chef de Projet :***\
+> ***Chef de Projet***\
 >Responsable de la gestion globale du projet.
 >S'assure que le projet suit le planning et le budget.
 >Coordonne les différentes équipes et les activités de développement.
 >Communique avec les parties prenantes pour s'assurer que les besoins sont compris et respectés.\
->***Architecte en Chef :***\
+>***Architecte en Chef***\
 >Responsable de la conception architecturale du système.
 >Crée une vision globale de l'architecture logicielle.
 >Prend des décisions techniques importantes pour garantir la cohérence et la qualité du système.\
->***Programmeurs :***\
+>***Programmeurs***\
 >Développeurs responsables de la création du code source.
 >Écrivent, testent et maintiennent le code.
 >Travaillent en étroite collaboration avec d'autres membres de l'équipe pour intégrer leurs contributions.\
->***Propriétaires de Classe :***\
+>***Propriétaires de Classe***\
 >Responsables de la conception et de la mise en œuvre de classes ou de composants spécifiques du système.
 >Définissent l'interface et les fonctionnalités de leurs classes.
 >Collaborent avec d'autres développeurs pour intégrer leurs composants dans le système global.\
->***Ecrivains de Fonctionnalités :***\
+>***Ecrivains de Fonctionnalités***\
 Responsables de la spécification détaillée des fonctionnalités du système.
 >Documentent les exigences fonctionnelles, les cas d'utilisation, et les scénarios d'utilisation.
 >Aident à clarifier les besoins des utilisateurs et à les traduire en spécifications techniques.\
 >***Autres :***\
 >En plus des rôles principaux mentionnés ci-dessus, il peut y avoir d'autres membres dans une équipe de développement.\
-> **Les livrables** \
+> **Les livrables:** \
 > Création de liste de fonctionnalités, des plans de construction de fonctionnalités, et des rapports d'avancement.
 > **Les normes de codage:**\
-> ***Uniformité du code :***
+> ***Uniformité du code***
 >Cela inclut la syntaxe, la structure du code, la nomenclature des variables et des fonctions, etc.
 En suivant des normes de codage uniformes, l'équipe de développement garantit que le code source est cohérent, ce qui facilite la collaboration entre les membres de l'équipe. Chacun peut comprendre le code des autres plus facilement, ce qui réduit les erreurs et les conflits potentiels.\
-***Compréhensibilité du code :***\
+***Compréhensibilité du code***\
 La documentation du code est un élément clé pour rendre le code compréhensible. Chaque composant logiciel, fonction ou module doit être accompagné de commentaires et de descriptions expliquant son objectif, son fonctionnement, et comment l'utiliser.\
 Les normes de codage et la documentation aident à garantir que le code reste maintenable sur le long terme.
 >
