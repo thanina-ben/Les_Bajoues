@@ -23,12 +23,11 @@
 > **Les rôles** \
 >Recherche internet pour définir les différents roles dans la méthode FDD lors d'un projet\
 > ***Chef de Projet :***\
-
 >Responsable de la gestion globale du projet.
 >S'assure que le projet suit le planning et le budget.
 >Coordonne les différentes équipes et les activités de développement.
 >Communique avec les parties prenantes pour s'assurer que les besoins sont compris et respectés.\
->***Architecte en Chef :***
+>***Architecte en Chef :***\
 >Responsable de la conception architecturale du système.
 >Crée une vision globale de l'architecture logicielle.
 >Prend des décisions techniques importantes pour garantir la cohérence et la qualité du système.\
