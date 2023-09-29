@@ -21,6 +21,35 @@
 > Si une fonctionnalité ne peut être mise en œuvre en deux semaines, elle doit être décomposée en éléments plus petits et gérables \
 > **Le processus de développement** \
 > **Les rôles** \
+> ***Chef de Projet :***
+
+***Responsable de la gestion globale du projet.***
+S'assure que le projet suit le planning et le budget.
+Coordonne les différentes équipes et les activités de développement.
+Communique avec les parties prenantes pour s'assurer que les besoins sont compris et respectés.
+***Architecte en Chef :***
+
+***Responsable de la conception architecturale du système.***
+Crée une vision globale de l'architecture logicielle.
+Prend des décisions techniques importantes pour garantir la cohérence et la qualité du système.
+Programmeurs :
+
+***Développeurs responsables de la création du code source.***
+Écrivent, testent et maintiennent le code.
+Travaillent en étroite collaboration avec d'autres membres de l'équipe pour intégrer leurs contributions.
+Propriétaires de Classe :
+
+***Responsables de la conception et de la mise en œuvre de classes ou de composants spécifiques du système.***
+Définissent l'interface et les fonctionnalités de leurs classes.
+Collaborent avec d'autres développeurs pour intégrer leurs composants dans le système global.
+Écrivains de Fonctionnalités :
+
+***Responsables de la spécification détaillée des fonctionnalités du système.***
+Documentent les exigences fonctionnelles, les cas d'utilisation, et les scénarios d'utilisation.
+Aident à clarifier les besoins des utilisateurs et à les traduire en spécifications techniques.
+Autres :
+
+En plus des rôles principaux mentionnés ci-dessus, il peut y avoir d'autres membres dans une équipe de développement.
 > **Les livrables** \
 > **Les normes de codage**
 >
