@@ -46,8 +46,8 @@ Responsables de la spécification détaillée des fonctionnalités du système.
 >***Autres :***\
 >En plus des rôles principaux mentionnés ci-dessus, il peut y avoir d'autres membres dans une équipe de développement.\
 > **Les livrables** \
-> **Les normes de codage**\
-> ***Uniformité du code :***
+**Les normes de codage**
+> ***Uniformité du code :***\
 
 >Cela inclut la syntaxe, la structure du code, la nomenclature des variables et des fonctions, etc.
 En suivant des normes de codage uniformes, l'équipe de développement garantit que le code source est cohérent, ce qui facilite la collaboration entre les membres de l'équipe. Chacun peut comprendre le code des autres plus facilement, ce qui réduit les erreurs et les conflits potentiels.\
