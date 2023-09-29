@@ -7,8 +7,8 @@
 > Utilisation de chatGPT \
 > Gestion de projet de développement d'une application Web :
 
-Dans le cadre du développement d'une application Web de gestion de projet, une équipe FDD pourrait commencer par modéliser le domaine, en identifiant les entités clés telles que les projets, les tâches, les utilisateurs, etc.
-Ensuite, l'équipe créerait une liste de fonctionnalités, telles que la création de projets, l'attribution de tâches, la génération de rapports, etc.
-Chaque fonctionnalité serait planifiée individuellement, et l'équipe travaillerait sur la conception et la construction de chaque fonctionnalité en séquence.
-Une fois une fonctionnalité terminée, elle serait testée et intégrée dans le système.
+> Dans le cadre du développement d'une application Web de gestion de projet, une équipe FDD pourrait commencer par modéliser le domaine, en identifiant les entités clés telles > que les projets, les tâches, les utilisateurs, etc.
+> Ensuite, l'équipe créerait une liste de fonctionnalités, telles que la création de projets, l'attribution de tâches, la génération de rapports, etc.
+> Chaque fonctionnalité serait planifiée individuellement, et l'équipe travaillerait sur la conception et la construction de chaque fonctionnalité en séquence.
+> Une fois une fonctionnalité terminée, elle serait testée et intégrée dans le système.
 > 
