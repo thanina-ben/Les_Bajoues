@@ -21,7 +21,7 @@
 > Si une fonctionnalité ne peut être mise en œuvre en deux semaines, elle doit être décomposée en éléments plus petits et gérables \
 > **Le processus de développement** \
 > **Les rôles** \
->Recherche internet pour définir les différents roles dans la méthode FDD lors d'un projet
+>Recherche internet pour définir les différents roles dans la méthode FDD lors d'un projet\
 > ***Chef de Projet :***\
 
 >Responsable de la gestion globale du projet.
