@@ -14,7 +14,7 @@
 > 
 
 # Recherche internet et sur le cour
-> Quel sont les différents componsantes du FDD :
+> Quel sont les différents componsantes du FDD : \
 > **Les fonctionnalités** \
 > **Le processus de développement** \
 > **Les rôles** \
