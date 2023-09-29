@@ -19,5 +19,5 @@
 > **Le processus de développement** \
 > **Les rôles** \
 > **Les livrables** \
-> **Les normes de codage** \
+> **Les normes de codage** 
 > 
