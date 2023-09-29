@@ -13,7 +13,7 @@
 > Une fois une fonctionnalité terminée, elle serait testée et intégrée dans le système.
 > 
 
-# Recherche internet et sur le cour
+# Recherche internet et sur le cours
 ## Quel sont les différents componsantes du FDD :
 > **Les fonctionnalités** \
 > Les fonctionnalités sont généralement exprimées dans la forme "action - résultat - objet" \
