@@ -11,7 +11,6 @@
 > Ensuite, l'équipe créerait une liste de fonctionnalités, telles que la création de projets, l'attribution de tâches, la génération de rapports, etc.
 > Chaque fonctionnalité serait planifiée individuellement, et l'équipe travaillerait sur la conception et la construction de chaque fonctionnalité en séquence.
 > Une fois une fonctionnalité terminée, elle serait testée et intégrée dans le système.
-> 
 
 # Recherche internet et sur le cours
 ## Quel sont les différents componsantes du FDD :
@@ -46,7 +45,7 @@ Responsables de la spécification détaillée des fonctionnalités du système.
 >***Autres :***\
 >En plus des rôles principaux mentionnés ci-dessus, il peut y avoir d'autres membres dans une équipe de développement.\
 > **Les livrables** \
-**Les normes de codage**
+>**Les normes de codage**
 > ***Uniformité du code :***\
 
 >Cela inclut la syntaxe, la structure du code, la nomenclature des variables et des fonctions, etc.
