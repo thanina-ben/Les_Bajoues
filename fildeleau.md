@@ -21,5 +21,10 @@
 > **Le processus de développement** \
 > **Les rôles** \
 > **Les livrables** \
-> **Les normes de codage** 
+> **Les normes de codage**
+>
+> Source :
+> ChatGPT`\
+> https://www.lucidchart.com/blog/fr/le-developpement-base-sur-les-fonctionnalites \
+> https://github.com/michaellaunay/NotesPubliques/blob/master/cours/Les%20m%C3%A9thodes%20agiles.md \
 > 
