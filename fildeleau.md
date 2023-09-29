@@ -18,7 +18,8 @@
 > Les fonctionnalités sont généralement exprimées dans la forme "action - résultat - objet" \
 > Exemple : "Envoyer - une notification par e-mail - pour les utilisateurs inscrits" Trouver grâce à ChatGPT \
 > Si une fonctionnalité ne peut être mise en œuvre en deux semaines, elle doit être décomposée en éléments plus petits et gérables \
-> **Le processus de développement**\
+> **Le processus de développement:**\
+> test
 **Les rôles:**\
 >Recherche internet pour définir les différents roles dans la méthode FDD lors d'un projet\
 > ***Chef de Projet***\
