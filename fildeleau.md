@@ -33,30 +33,13 @@
 >Dans cette étape, l'équipe de développement commence réellement à coder et à construire les fonctionnalités une par une. Chaque fonctionnalité est développée, testée et intégrée au logiciel global au fur et à mesure.
 A modifier\
 **Les rôles:**\
->Recherche internet pour définir les différents roles dans la méthode FDD lors d'un projet\
-> ***Chef de Projet***\
->Responsable de la gestion globale du projet.
->S'assure que le projet suit le planning et le budget.
->Coordonne les différentes équipes et les activités de développement.
->Communique avec les parties prenantes pour s'assurer que les besoins sont compris et respectés.\
->***Architecte en Chef***\
->Responsable de la conception architecturale du système.
->Crée une vision globale de l'architecture logicielle.
->Prend des décisions techniques importantes pour garantir la cohérence et la qualité du système.\
->***Programmeurs***\
->Développeurs responsables de la création du code source.
->Écrivent, testent et maintiennent le code.
->Travaillent en étroite collaboration avec d'autres membres de l'équipe pour intégrer leurs contributions.\
->***Propriétaires de Classe***\
->Responsables de la conception et de la mise en œuvre de classes ou de composants spécifiques du système.
->Définissent l'interface et les fonctionnalités de leurs classes.
->Collaborent avec d'autres développeurs pour intégrer leurs composants dans le système global.\
->***Ecrivains de Fonctionnalités***\
-Responsables de la spécification détaillée des fonctionnalités du système.
->Documentent les exigences fonctionnelles, les cas d'utilisation, et les scénarios d'utilisation.
->Aident à clarifier les besoins des utilisateurs et à les traduire en spécifications techniques.\
->***Autres***\
->En plus des rôles principaux mentionnés ci-dessus, il peut y avoir d'autres membres dans une équipe de développement.\
+>Dans la méthode FDD (Feature-Driven Development) pour les projets de développement logiciel, voici un résumé des principaux rôles :\
+>1. Chef de Projet : Gère le projet, assure le suivi du planning et du budget, coordonne les équipes et communique avec les parties prenantes pour répondre aux besoins.\
+>2. Architecte en Chef : Conçoit l'architecture globale du système, prend des décisions techniques importantes pour maintenir la cohérence et la qualité.\
+>3. Programmeurs : Écrivent, testent et entretiennent le code source, collaborant étroitement avec les autres membres de l'équipe.\
+>4. Propriétaires de Classe : Conçoivent et mettent en œuvre des composants spécifiques du système, définissant leurs fonctionnalités et les intégrant au système global.\
+>5. Ecrivains de Fonctionnalités : Spécifient en détail les fonctionnalités du système, documentent les exigences fonctionnelles et aident à traduire les besoins des utilisateurs en spécifications techniques.\
+>D'autres membres peuvent également être présents en fonction des besoins particuliers du projet.\
 > **Les livrables:** \
 > Création de liste de fonctionnalités, des plans de construction de fonctionnalités, et des rapports d'avancement.\
 > **Les normes de codage:**\
